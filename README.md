@@ -15,4 +15,5 @@ python main.py
 ## Author
 
 Ahmad Abdullah
-by chatgpt
+
+this README MADE BY chatgpt
